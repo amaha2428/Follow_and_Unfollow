@@ -21,8 +21,8 @@ This program shows how following and unfollowing features can be implemented in 
 4. You can also test the code using postman, insomnia or any API testing platform
 
 ### Testing with insomnia
-![insomnia.png](attachment:[insomnia.png](https://github.com/amaha2428/Follow_and_Unfollow/blob/main/insomnia.png))
+![insomnia.png](https://github.com/amaha2428/Follow_and_Unfollow/blob/main/insomnia.png)
 
 ### SQL
-![SQL.png](attachment:[SQL.png](https://github.com/amaha2428/Follow_and_Unfollow/blob/main/SQL.png))
+![SQL.png](https://github.com/amaha2428/Follow_and_Unfollow/blob/main/SQL.png)
 
